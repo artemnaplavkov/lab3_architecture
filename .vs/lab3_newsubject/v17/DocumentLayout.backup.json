@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Downloads\\lab3_newsubject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE95A0-1401-4341-8602-755DCFC97757}|lab3_newsubject\\lab3_newsubject.vcxproj|C:\\Users\\1\\Downloads\\lab3_newsubject\\tree.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AEFE95A0-1401-4341-8602-755DCFC97757}|lab3_newsubject\\lab3_newsubject.vcxproj|solutionrelative:tree.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE95A0-1401-4341-8602-755DCFC97757}|lab3_newsubject\\lab3_newsubject.vcxproj|C:\\Users\\1\\Downloads\\lab3_newsubject\\lab3_newsubject\\lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEFE95A0-1401-4341-8602-755DCFC97757}|lab3_newsubject\\lab3_newsubject.vcxproj|solutionrelative:lab3_newsubject\\lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab.cpp",
+              "DocumentMoniker": "C:\\Users\\1\\Downloads\\lab3_newsubject\\lab3_newsubject\\lab.cpp",
+              "RelativeDocumentMoniker": "lab3_newsubject\\lab.cpp",
+              "ToolTip": "C:\\Users\\1\\Downloads\\lab3_newsubject\\lab3_newsubject\\lab.cpp",
+              "RelativeToolTip": "lab3_newsubject\\lab.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T08:26:36.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tree.txt",
+              "DocumentMoniker": "C:\\Users\\1\\Downloads\\lab3_newsubject\\tree.txt",
+              "RelativeDocumentMoniker": "tree.txt",
+              "ToolTip": "C:\\Users\\1\\Downloads\\lab3_newsubject\\tree.txt",
+              "RelativeToolTip": "tree.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-10T08:28:42.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
